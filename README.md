@@ -7,8 +7,8 @@ Um pouquinho sobre mim:
 
 <div>
   <a href="https://github.com/guigams">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=guigams&show_icons=true&theme=tokyonight"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guigams&layout=compact&theme=tokyonight"/>
+  <img height="180cm" width="48%" src="https://github-readme-stats.vercel.app/api?username=guigams&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180cm" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guigams&layout=compact&theme=tokyonight"/>
 </div>
 
 <div>

@@ -5,6 +5,7 @@
 Um pouquinho sobre mim:
 - 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Senai (2/3)
 - 🥳 Tenho 19 anos
+- 👨‍💻 Buscando sempre aprender e evoluir no ramo da tecnologia
 
 <div>
   <a href="https://github.com/guigams">

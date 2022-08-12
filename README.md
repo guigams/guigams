@@ -3,7 +3,7 @@
 ###### 💬 *"Se algo é importante o suficiente, você deve tentar. Mesmo se o resultado provável for o fracasso."* — Elon Musk
 
 Um pouquinho sobre mim:
-- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas (3/3)
+- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas (2/3)
 
 <div>
   <a href="https://github.com/guigams">

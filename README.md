@@ -1,16 +1,19 @@
-### Hi there 👋
+### Salve! Eu sou o Guilherme, mais conhecido como Guiga! 🤙
 
-<!--
-**guigams/guigams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### 💬 *"Se algo é importante o suficiente, você deve tentar. Mesmo se o resultado provável for o fracasso."* — Elon Musk
 
-Here are some ideas to get you started:
+Um pouquinho sobre mim:
+- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas (2/3)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/guigams">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=guigams&show_icons=true&theme=tokyonight"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guigams&layout=compact&theme=tokyonight"/>
+</div>
+
+<div>
+  <a href="https://www.instagram.com/guiga.ms/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.snapchat.com/add/guiga.morais?share_id=IJtc4Xj1ozA&locale=pt-BR" target="_blank"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" target="_blank"></a>
+</div>
+
+

@@ -15,7 +15,6 @@ Um pouquinho sobre mim:
 
 <div>
   <a href="https://www.instagram.com/guiga.ms/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.snapchat.com/add/guiga.morais?share_id=IJtc4Xj1ozA&locale=pt-BR" target="_blank"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" target="_blank"></a>
   <a href = "mailto:moraisdesouza.guilherme03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 

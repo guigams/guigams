@@ -2,7 +2,7 @@
 
 ###### 💬 *"Se algo é importante o suficiente, você deve tentar. Mesmo se o resultado provável for o fracasso."* — Elon Musk
 
-Um pouquinho sobre mim:
+Um pouquinho sobre eu:
 - 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Senai (2/3)
 - 🥳 Tenho 19 anos
 - 👨‍💻 Buscando sempre aprender e evoluir no ramo da tecnologia

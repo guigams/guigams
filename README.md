@@ -1,9 +1,10 @@
-### Salve! Eu sou o Guilherme, mais conhecido como Guiga! 🤙
+### Prazer, sou o Guilherme Morais! 👨‍💻
 
 ###### 💬 *"Se algo é importante o suficiente, você deve tentar. Mesmo se o resultado provável for o fracasso."* — Elon Musk
 
-Um pouquinho sobre eu:
-- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Senai (2/3)
+Sobre:
+- 📚 Análise e Desenvolvimento de Sistemas - Senai Suíço-Brasileira (3/3) ✔️
+- 📚 Análise e Desenvolvimento de Sistemas - UNIP (1/4)
 - 🥳 Tenho 19 anos
 - 👨‍💻 Buscando sempre aprender e evoluir no ramo da tecnologia
 
